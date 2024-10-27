@@ -1,0 +1,11 @@
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\C#_L2\Pooltable\bin\Debug\Pooltable.exe.config
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\C#_L2\Pooltable\bin\Debug\Pooltable.exe
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\C#_L2\Pooltable\bin\Debug\Pooltable.pdb
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\C#_L2\Pooltable\obj\Debug\Pooltable.csproj.AssemblyReference.cache
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\C#_L2\Pooltable\obj\Debug\Pooltable.ctlPoolTable.resources
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\C#_L2\Pooltable\obj\Debug\Pooltable.Form1.resources
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\C#_L2\Pooltable\obj\Debug\Pooltable.Properties.Resources.resources
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\C#_L2\Pooltable\obj\Debug\Pooltable.csproj.GenerateResource.cache
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\C#_L2\Pooltable\obj\Debug\Pooltable.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\C#_L2\Pooltable\obj\Debug\Pooltable.exe
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\C#_L2\Pooltable\obj\Debug\Pooltable.pdb
